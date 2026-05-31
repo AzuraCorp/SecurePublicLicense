@@ -1,72 +1,21 @@
 # AzuraCorp's SPL(Secure Public License)
-A Public license for open-source use! Just copy the text below:
-```
-Azura Secure-Public-License (SPL)
-Version 1.0, May 2026
-Copyright (C) 2026 AzuraCorp (and contributors)
+A Public license for open-source use!
+## 📜 License Summary (Azura SPL)
 
-Everyone is permitted to copy and distribute verbatim copies of this license document,
-but changing the license text itself and calling it "as is" is not allowed.
+AzuraLang is licensed under the custom **Azura Secure-Public-License (SPL) v1.0**. Here is a quick, human-readable breakdown of your rights and restrictions:
 
-================================================================================
+### 🟢 What You Can Do
+* **Read & Learn:** Anyone can inspect the source code, see how the framework is built, and use it to learn.
+* **Hack & Tweak:** You have total freedom to modify, edit, and experiment with the code for personal, hobby, or educational projects.
+* **Share Freely:** You can host forks on GitHub and share apps you build with AzuraLang, provided your distribution is completely free of charge and carries this exact same license (Copyleft).
 
-TERMS AND CONDITIONS
+### 🔴 What You Cannot Do
+* **No Commercialization:** You absolutely cannot sell, lease, or monetize this software, its derivatives, or any applications built directly with it for commercial gain.
+* **No Patent Trolling:** You are strictly forbidden from applying for a patent on any tweak or modification built on top of this codebase. If you launch patent litigation against AzuraCorp, your license is instantly revoked.
+* **No Brand Hijacking:** You can copy this license text for your own separate projects, but you cannot call it the "Azura SPL" if you change any of the rules.
 
-1. DEFINITIONS
-"Software" refers to the source code, binaries, documentation, and design assets
-distributed under this License.
-"Personal Use" refers to use by an individual solely for private, educational,
-experimental, or hobbyist purposes, entirely decoupled from any commercial enterprise.
-"Commercial Use" refers to any use of the Software or its derivatives by an
-individual or entity for financial gain, direct or indirect monetary compensation,
-business operations, or corporate development.
-
-2. PERMITTED USES
-Subject to the terms of this License, the Copyright Holder grants you a worldwide,
-non-exclusive, royalty-free, non-transferable right to:
-• View and inspect the source code of the Software.
-• Modify, tweak, and adapt the source code for Personal or Educational Use.
-
-3. RESTRICTIONS & COMMERCIAL PROHIBITION
-• No Commercialization: You may not sell, lease, rent, sublicense, or monetize
-the Software, any modified versions of it, or any applications built directly 
-with it for commercial gain.
-• Allowed Redistribution (Non-Commercial Copyleft): You ARE permitted to publicly 
-distribute or host modified or unmodified copies of this Software, as well as 
-programs created using it, provided that such distribution is entirely 
-non-commercial, free of charge, and carries this exact same Azura SPL license.
-
-4. PATENT PROTECTION & ANTI-TROLL CLAUSE
-• Defensive Patent Grant: Subject to the terms of this License, each contributor
-grants you a personal, non-exclusive, royalty-free patent license to make and
-use the modifications for Personal Use.
-• Patent Retaliation: If you, or any entity associated with you, institute patent
-litigation or file a patent claim against the Software, the Copyright Holder,
-or any contributor alleging that the Software infringes upon a patent, then any
-licenses granted to you under this SPL terminate instantly and automatically.
-• No Patenting Derivatives: You are strictly forbidden from filing a patent application
-on any modification, optimization, or derivative work built on top of this Software.
-
-5. DISCLAIMER OF WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-6. REVISED VERSIONS AND LICENSING MANAGEMENT
-• Authority to Modify: AzuraCorp is the sole authority permitted to publish revised,
-updated, or amended versions of the Azura Secure-Public-License (SPL) over time.
-• Upgrading: If the Software specifies that a certain version of the SPL applies to
-it "or any later version", you have the option of following the terms of either
-that specific version or any later version published by AzuraCorp.
-• License Text Protection: You may use the text of this license to secure your own
-projects, provided you do not call it the "Azura Secure-Public-License" or use
-the Azura branding if you have modified the rules of the license text itself.
-
-Original text provided by AzuraCorp at https://github.com/AzuraCorp/SecurePublicLicense . 
-Original license writer is Zhan2os1ks (Zhandos Wiens). Contact: azuracorp@duck.com .
-Made by AzuraCorp
-```
-### This license is also licensed under the same license!!!
+> [!NOTE]
+> **Disclaimer of Liability:** This software is provided completely "as-is" without any warranties. AzuraCorp is not legally responsible for any bugs, errors, or system issues. For the official legal binding terms, please read the full `LICENSE` file in this repository.
+## 🪪 Use it!
+Go to **releases** tab on the right sidebar and copy the text of latest license!
+Enjoy!
