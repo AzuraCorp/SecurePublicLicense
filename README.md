@@ -1,6 +1,6 @@
 # AzuraCorp's SPL(Secure Public License)
 A Public license for open-source use!
-## 📜 License Summary (Azura SPL v1.0)
+## 📜 License Summary (Azura SPL)
 
 AzuraLang is licensed under the custom **Azura Secure-Public-License (SPL) v1.0**. Here is a quick, human-readable breakdown of your rights and restrictions:
 
