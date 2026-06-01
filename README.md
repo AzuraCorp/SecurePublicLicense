@@ -2,7 +2,7 @@
 A Public license for open-source use!
 ## 📜 License Summary (Azura SPL)
 
-AzuraLang is licensed under the custom **Azura Secure-Public-License (SPL) v1.0**. Here is a quick, human-readable breakdown of your rights and restrictions:
+**Azura Secure-Public-License (SPL) v1.0** Here is a quick, human-readable breakdown of your rights and restrictions:
 
 ### 🟢 What You Can Do
 * **Read & Learn:** Anyone can inspect the source code, see how the framework is built, and use it to learn.
