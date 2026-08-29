@@ -1,5 +1,5 @@
 Azura Secure-Public-License (SPL)
-Version 1.0, May 2026
+Version 2.0, August 2026
 Copyright (C) 2026 AzuraCorp (and contributors)
 
 Everyone is permitted to copy and distribute verbatim copies of this license document,
@@ -14,24 +14,30 @@ TERMS AND CONDITIONS
 distributed under this License.
 "Personal Use" refers to use by an individual solely for private, educational,
 experimental, or hobbyist purposes, entirely decoupled from any commercial enterprise.
-"Commercial Use" refers to any use of the Software or its derivatives by an
+"Commercial Use" refers to any use of the software or its derivatives by an
 individual or entity for financial gain, direct or indirect monetary compensation,
 business operations, or corporate development.
+"Non-Commercial" refers to any use of the software or its derivatives by an
+individual, entity or group for non-financial gain, direct or indirect 
+personal or educational purposes
+"Add-On" refers to an optional, supplementary software features or components that 
+extend or enchance the main features or applications of the original, main software.
 
 2. PERMITTED USES
 Subject to the terms of this License, the Copyright Holder grants you a worldwide,
 non-exclusive, royalty-free, non-transferable right to:
-• View and inspect the source code of the Software.
-• Modify, tweak, and adapt the source code for Personal or Educational Use.
+• View and inspect the source code of the software.
+• Modify, tweak, and adapt the source code for personal or educational Use.
 
 3. RESTRICTIONS & COMMERCIAL PROHIBITION
 • No Commercialization: You may not sell, lease, rent, sublicense, or monetize
 the Software, any modified versions of it, or any applications built directly 
 with it for commercial gain.
-• Allowed Redistribution (Non-Commercial Copyleft): You ARE permitted to publicly 
-distribute or host modified or unmodified copies of this Software, as well as 
-programs created using it, provided that such distribution is entirely 
-non-commercial, free of charge, and carries this exact same Azura SPL license.
+Non-Commercial Redistribution (Copyleft): You are permitted to publicly distribute
+or host modified or unmodified copies of this Software, provided that:
+• Distribution is entirely non-commercial and free of charge
+• This exact license text is included and unmodified
+Note: The copyright holder must grant explicit written permission for commercial redistribution.
 
 4. PATENT PROTECTION & ANTI-TROLL CLAUSE
 • Defensive Patent Grant: Subject to the terms of this License, each contributor
@@ -41,8 +47,9 @@ use the modifications for Personal Use.
 litigation or file a patent claim against the Software, the Copyright Holder,
 or any contributor alleging that the Software infringes upon a patent, then any
 licenses granted to you under this SPL terminate instantly and automatically.
-• No Patenting Derivatives: You are strictly forbidden from filing a patent application
-on any modification, optimization, or derivative work built on top of this Software.
+• No Patenting Derivatives: You are strictly forbidden from filing a patent 
+application on any modification, optimization, add-on or derivative work built 
+on top of this Software.
 
 5. DISCLAIMER OF WARRANTY
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
@@ -61,7 +68,13 @@ that specific version or any later version published by AzuraCorp.
 • License Text Protection: You may use the text of this license to secure your own
 projects, provided you do not call it the "Azura Secure-Public-License" or use
 the Azura branding if you have modified the rules of the license text itself.
+• Extended Permission: The copyright holder may grant explicit written permission to 
+any individual or organization to commercialize this software or its derivatives, 
+exempting them from the non-commercial restriction.
 
 Original text provided by AzuraCorp at https://github.com/AzuraCorp/SecurePublicLicense . 
-Original license writer is Zhan2os1ks (Zhandos Wiens). Contact: azuracorp@duck.com .
+Original license writer is Zhan2os1ks (Zhandos Wiens).
+If you have found loopholes/issues in this license or need a custom legally modified 
+text of this license you may and can contact us/me through E-Mail.
+Contact: azuracorp@duck.com .
 Made by AzuraCorp
